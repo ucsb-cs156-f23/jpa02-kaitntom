@@ -1,6 +1,6 @@
 # jpa02-kaitntom
 
-Repo: https://ucsb-cs156-f23/jpa02-kaitntom
+Repo: https://github.com/ucsb-cs156-f23/jpa02-kaitntom
 
 Deployed at: http://jpa02-kaitntom.dokku-03.cs.ucsb.edu
 
